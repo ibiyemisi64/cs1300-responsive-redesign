@@ -4,8 +4,8 @@
 }
 
 .btn-primary:active {
-    background-color: #350203;
-    border-color: #350203;
+    background-color: #350203 !important;
+    border-color: #350203 !important;
 }
 
 .btn-primary:hover{
