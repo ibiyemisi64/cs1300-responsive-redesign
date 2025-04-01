@@ -1,0 +1,43 @@
+.btn-primary {
+    background-color: #630406;
+    border-color: #630406;
+}
+
+.btn-primary:active {
+    background-color: #350203;
+    border-color: #350203;
+}
+
+.btn-primary:hover{
+    background-color: #EA0A0C;
+    border-color: #EA0A0C;
+}
+
+.bg-EA0A0C {
+    background-color: #630406;
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+  }
+
+h1 {
+font-size: 36px;
+}
+
+@media (min-width: 768px) {
+h1 {
+    font-size: 48px;
+}
+}
+
+h2 {
+font-size: 24px;
+}
+
+@media (min-width: 768px) {
+h2 {
+    font-size: 30px;
+}
+}
